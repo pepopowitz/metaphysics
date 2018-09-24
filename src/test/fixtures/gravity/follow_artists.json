@@ -17,12 +17,7 @@
       "original_width": null,
       "original_height": null,
       "image_url": "https://d32dm0rphc51dk.cloudfront.net/OcYkonYKNoEIvg__2jnZCA/:version.jpg",
-      "image_versions": [
-        "four_thirds",
-        "large",
-        "square",
-        "tall"
-      ],
+      "image_versions": ["four_thirds", "large", "square", "tall"],
       "image_urls": {
         "four_thirds": "https://d32dm0rphc51dk.cloudfront.net/OcYkonYKNoEIvg__2jnZCA/four_thirds.jpg",
         "large": "https://d32dm0rphc51dk.cloudfront.net/OcYkonYKNoEIvg__2jnZCA/large.jpg",

@@ -13,11 +13,11 @@
         "code": "1",
         "state": "PENDING",
         "currencyCode": "usd",
-        "seller":{
+        "seller": {
           "id": "111",
           "__typename": "Partner"
         },
-        "buyer":{
+        "buyer": {
           "id": "111",
           "__typename": "User"
         },
